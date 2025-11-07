@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 90 Day Habit Tracker",
+  "description": "A habit tracker application to help you build new habits and not break the chain for 90 days. Track multiple habits, mark days as complete or missed, and see your progress over a three-month period. All data is saved using Supabase.",
+  "requestFramePermissions": []
+}
